@@ -1,7 +1,7 @@
 ---
 title: "feat: Comprehensive Voter Roll Analysis for P.118 Setiawangsa"
 type: feat
-status: active
+status: completed
 date: 2026-03-19
 origin: docs/brainstorms/2026-03-19-setiawangsa-voter-analysis-requirements.md
 ---

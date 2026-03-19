@@ -1,0 +1,7 @@
+# Sensitive data — DO NOT commit
+*.xlsx
+*.parquet
+outputs/
+__pycache__/
+*.pyc
+.env
